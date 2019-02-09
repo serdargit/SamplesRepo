@@ -1,0 +1,9 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/serdargit/simple-toolchain-1479296628222.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
